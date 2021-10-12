@@ -1,0 +1,2 @@
+(this.webpackJsonpsimplified_cra_starter_code=this.webpackJsonpsimplified_cra_starter_code||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),r=n.n(c),i=(n(8),n(9),n(0));var s=function(){return Object(i.jsx)("div",{className:"App",children:"App One"})};r.a.render(Object(i.jsx)(s,{}),document.getElementById("root"))},8:function(e,t,n){},9:function(e,t,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.1f6445f1.chunk.js.map
